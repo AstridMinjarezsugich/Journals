@@ -1,1 +1,1 @@
-today was a good day
+Today was a good day i got to learn some different ways to use arrays  by reviewing one of our peers about me lab. Also we went over the reading material in good detail which gave me references to good websites where i could find fonts and images to use when doing CSS. I am also very glad we went over git and gitHub since i tend to get confused about the whole forking pulling and pushing procedures, but I was able to understand it better since the instructor went over it a few times. 
