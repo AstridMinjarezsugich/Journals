@@ -1,0 +1,1 @@
+Today felt like a very long day. I was having a hard time figuring out Lab 7 & 8 but one of the TAs took the time to really help my brother and I with explaining some of the lab requirements. I was not able to completly finish it but I learned a lot of useful knowledge I can apply to fully complete the lab.
